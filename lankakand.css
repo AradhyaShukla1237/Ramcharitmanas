@@ -1,0 +1,19 @@
+body{
+  background: #7B0000;
+}
+
+.heading{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 35px;
+  color: #CCFF00;
+}
+
+.lankakand-img img{
+  width: 1000px;
+}
+
+.des{
+ color: #CCFF00;
+ font-size: 35px;
+}

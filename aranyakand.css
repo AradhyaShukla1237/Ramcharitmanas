@@ -1,0 +1,19 @@
+body{
+  background: #FF0081;
+}
+
+.heading{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 35px;
+  color: #D8C890;
+}
+
+.aranyakand-img img{
+  width: 1000px;
+}
+
+.des{
+ color: #D8C890;
+ font-size: 35px;
+}

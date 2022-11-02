@@ -1,0 +1,19 @@
+body{
+  background: #00F5FF;
+}
+
+.heading{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 35px;
+  color: #1C7126;
+}
+
+.sunderkand-img img{
+  width: 1000px;
+}
+
+.des{
+ color: #1C7126;
+ font-size: 35px;
+}

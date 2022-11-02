@@ -1,0 +1,19 @@
+body{
+  background: #00FFA3;
+}
+
+.heading{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 35px;
+  color: #FF0000;
+}
+
+.uttarkand-img img{
+  width: 1000px;
+}
+
+.des{
+ color: #FF0000;
+ font-size: 35px;
+}
