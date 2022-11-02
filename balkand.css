@@ -18,5 +18,8 @@ body{
  font-size: 35px;
 }
 
-a{
+.links{
    margin-left: 600px;
+   color: #fff;
+   text-decoration: none;
+}
