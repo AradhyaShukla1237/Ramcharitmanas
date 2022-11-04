@@ -8,10 +8,11 @@
 body{
   background-color: #000000;
   height: auto;
+  width: 1200px;
 }
 
 .header-img{
-  margin-left: 150px;
+  margin-left: 350px;
   margin-top: 200px;
 }
 
