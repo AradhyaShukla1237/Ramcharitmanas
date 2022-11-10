@@ -93,12 +93,11 @@ section{
   transition: all .3s;
 }
 i{
-  position: fixed;
-  margin: 20px 25px;
+  position: sticky;
+  margin-left: 300px;
   font-size: 40px;
   color: white;
   cursor: pointer;
-  margin-top: -1200px;
 }
 
 .sec1{
