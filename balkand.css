@@ -17,10 +17,15 @@ body{
  color: #D8C890;
  font-size: 35px;
 }
+       a {
+            color: rebeccapurple;
+            text-decoration: none;
+            font-family: cursive;
+            font-size: large;
+            display: inline-flex;
+            margin-left: 200px;
+        }
 
-a{
-   margin-left:  200px; 
-   display: flex;
-   text-decoration: none;
-   color: white;
-}
+        a:hover {
+            color: rgb(255, 0, 0);
+        }
