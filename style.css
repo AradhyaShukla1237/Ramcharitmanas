@@ -48,12 +48,12 @@ body{
   font-size: 30px;
 }
 
-.wrapper{
+.rapper{
   height: 100%;
   width: 300px;
   position: relative;
 }
-.wrapper .menu-btn{
+.rapper .menu-btn{
   position: absolute;
   left: 20px;
   top: 10px;
@@ -197,13 +197,13 @@ body{
   background: #664AFF;
 }
 
-.rapper{
+.wrapper{
    width: 600px;
   margin-left: 150px;
   margin-top: 50px;
 }
 
-.rapper .search-input{
+.wrapper .search-input{
   background: #fff;
   width: 100%;
   border-radius: 5px;
