@@ -19,7 +19,8 @@ body{
 }
 
 a{
-   margin-left:  300px;
+   margin-left:  300px; 
+   display: flex;
    text-decoration: none;
    color: white;
 }
