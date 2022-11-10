@@ -17,9 +17,12 @@ body{
  color: #1C7126;
  font-size: 35px;
 }
-a{
-   margin-left:  200px; 
-   display: flex;
-   text-decoration: none;
-   color: white;
-}
+
+a {
+            color: white;
+            text-decoration: none;
+            font-family: cursive;
+            font-size: large;
+            display: inline-flex;
+            margin-left: 200px;
+        }
