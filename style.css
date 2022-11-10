@@ -73,13 +73,13 @@ body{
 #btn:checked ~ .menu-btn{
   left: 247px;
 }
-.wrapper .menu-btn i{
+.rapper .menu-btn i{
   position: absolute;
   transform: ;
   font-size: 23px;
   transition: all 0.3s ease;
 }
-.wrapper .menu-btn i.fa-times{
+.rapper .menu-btn i.fa-times{
   opacity: 0;
 }
 #btn:checked ~ .menu-btn i.fa-times{
