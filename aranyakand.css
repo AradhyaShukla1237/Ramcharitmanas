@@ -17,3 +17,9 @@ body{
  color: #D8C890;
  font-size: 35px;
 }
+a{
+   margin-left:  200px; 
+   display: flex;
+   text-decoration: none;
+   color: white;
+}
