@@ -1,9 +1,9 @@
 // getting all required elements
-const searchWrapper = document.querySelector(".search-input");
-const inputBox = searchWrapper.querySelector("input");
-const suggBox = searchWrapper.querySelector(".autocom-box");
-const icon = searchWrapper.querySelector(".icon");
-let linkTag = searchWrapper.querySelector("a");
+const searchRapper = document.querySelector(".search-input");
+const inputBox = searchRapper.querySelector("input");
+const suggBox = searchRapper.querySelector(".autocom-box");
+const icon = searchRapper.querySelector(".icon");
+let linkTag = searchRapper.querySelector("a");
 let webLink;
 
 // if user press any key and release
@@ -24,7 +24,7 @@ inputBox.onkeyup = (e)=>{
             // passing return data inside li tag
             return data = `<li>${data}</li>`;
         });
-        searchWrapper.classList.add("active"); //show autocomplete box
+        searchRapper.classList.add("active"); //show autocomplete box
         showSuggestions(emptyArray);
         let allList = suggBox.querySelectorAll("li");
         for (let i = 0; i < allList.length; i++) {
@@ -32,7 +32,7 @@ inputBox.onkeyup = (e)=>{
             allList[i].setAttribute("onclick", "select(this)");
         }
     }else{
-        searchWrapper.classList.remove("active"); //hide autocomplete box
+        searchRapper.classList.remove("active"); //hide autocomplete box
     }
 }
 
@@ -44,7 +44,7 @@ function select(element){
         linkTag.setAttribute("href", webLink);
         linkTag.click();
     }
-    searchWrapper.classList.remove("active");
+    searchRapper.classList.remove("active");
 }
 
 function showSuggestions(list){
