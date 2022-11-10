@@ -17,3 +17,9 @@ body{
  color: #FF0000;
  font-size: 35px;
 }
+
+a{
+   margin-left:  300px;
+   text-decoration: none;
+   color: white;
+}
