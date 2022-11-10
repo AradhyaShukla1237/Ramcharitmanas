@@ -198,8 +198,8 @@ body{
 }
 
 .rapper{
-   width: 500px;
-  margin-left: 450px;
+   width: 600px;
+  margin-left: 50px;
   margin-top: 50px;
 }
 
@@ -216,9 +216,9 @@ body{
   width: 100%;
   outline: none;
   border: 1px solid #664AFF;
-  border-radius: 50px;
+  border-radius: 5px;
   padding: 0 20px 0 20px;
-  font-size: 18px;
+  font-size: 20px;
   box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
 }
 
