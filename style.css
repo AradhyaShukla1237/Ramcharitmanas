@@ -199,7 +199,7 @@ body{
 
 .rapper{
    width: 600px;
-  margin-left: 50px;
+  margin-left: 150px;
   margin-top: 50px;
 }
 
@@ -259,12 +259,12 @@ body{
 .search-input .icon{
   position: absolute;
   right: 0px;
-  top: -10px;
+  top: -5px;
   height: 35px;
   width: 35px;
   text-align: center;
   line-height: 55px;
-  font-size: 20px;
+  font-size: 25px;
   color: #664AFF;
   cursor: pointer;
 }
