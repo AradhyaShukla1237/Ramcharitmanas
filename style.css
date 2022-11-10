@@ -198,7 +198,7 @@ body{
 }
 
 .rapper{
-  max-width: 350px;
+  max-width: 80vw;
   margin-left: 450px;
   margin-top: 50px;
 }
@@ -206,7 +206,7 @@ body{
 .rapper .search-input{
   background: #fff;
   width: 100%;
-  border-radius: 50px;
+  border-radius: 5px;
   position: relative;
   box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.12);
 }
