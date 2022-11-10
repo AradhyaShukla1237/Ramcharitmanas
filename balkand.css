@@ -18,8 +18,9 @@ body{
  font-size: 35px;
 }
 
-.links{
-   margin-left: 600px;
-   color: #fff;
+a{
+   margin-left:  200px; 
+   display: flex;
    text-decoration: none;
+   color: white;
 }
