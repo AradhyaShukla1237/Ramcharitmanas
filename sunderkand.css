@@ -21,3 +21,9 @@ body{
 hr{
   color: red;
 }
+a{
+   margin-left:  200px; 
+   display: flex;
+   text-decoration: none;
+   color: white;
+}
